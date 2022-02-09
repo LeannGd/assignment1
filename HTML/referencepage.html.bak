@@ -1,0 +1,52 @@
+<!doctype html>
+
+<html>
+
+  <head>
+    <title>Reference</title>
+    <meta name = "Author" content = "Leann Denniser">	</meta>
+    <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+    <!-- the pixel width of the viewport that you want the website to be rendered at -->
+    <!-- setting a 1:1 ration between the device width and the viewport size -->
+    <meta charset= "UTF-8"></meta>
+    <meta name = "Keywords" content = "profile, personal development, story board,reference"/>
+	
+	<link rel="icon" type="image/x-icon" href="../Assests/female.png"> 
+  </head>
+
+  <body style = "background:dodgerblue">
+     <!-- content goes here -->
+    <header>
+	 <hr/>
+	 <h1 style = "color:yellow; text-align:center">References  </h1>
+	 <hr/>
+	 <br/>
+	</header>
+	
+	<section>
+	  
+	 <ul style="list-style-type:square;">
+       <li style= "color:black;font-size:130%";>Clipart Library. (2016).Free Clip art - Clip Art Collection - Download Clipart on
+	   <br> Clipart Library.Clipart-Library.com. <a href = "http://clipart-library.com/">http://clipart-library.com/</a></br></li>
+	   <br/>
+	   <li>Keirsey Temperament Assessment. (2019). Keirsey Temperament Assessment.
+	   <br> <a href = "https://www.keirsey.com/">https://www.keirsey.com/</a></br></li>
+	   <br/>
+	   <li>Rohn, J., & Widener, C. (2005). Twelve Pillars (pp. 43–80) [Review of Twelve<br> Pillars]. 
+	   Jim Rohn International and Chris Widener International. (Original work</br> published 2005)</li>
+	   <br/>
+	   <li>W3Schools. (2019). HTML Tutorial. W3schools.com. 
+	   <br><a href = "https://www.w3schools.com/html/default.asp">https://www.w3schools.com/html/default.asp</a></br></li>
+	   <br/>
+	  </ul>
+	  
+	</section>
+     <footer>
+	  <br/>
+	  <hr/>
+	    <h3 style = 'text-align:right'>Copyrighted &copy;Leann Denniser, February 8, 2022 </h3>
+	  <hr/>
+     </footer>
+	 
+</body>
+</html>

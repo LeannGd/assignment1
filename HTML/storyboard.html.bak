@@ -1,0 +1,41 @@
+<!doctype html>
+
+<html>
+
+  <head>
+    <title>Storyboard</title>
+    <meta name = "Author" content = "Leann Denniser">	</meta>
+    <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+    <!-- the pixel width of the viewport that you want the website to be rendered at -->
+    <!-- setting a 1:1 ration between the device width and the viewport size -->
+    <meta charset= "UTF-8"></meta>
+    <meta name = "Keywords" content = "profile, personal development, story board"/>
+	
+	<link rel="icon" type="image/x-icon" href="../Assests/female.png"> 
+  </head>
+
+  <body style = "background:dodgerblue">
+     <!-- content goes here -->
+    <header>
+	 <hr/>
+	 <h1 style = "color:yellow; text-align:center">Storyboard </h1>
+	 <hr/>
+	 <br/>
+	</header>
+	
+	<section>
+	  
+	   <p style= "font-size:150%">Image of the Storyboard</p>
+	       <img src = "../Assests/storyboard1.jpeg" height = "430" width = "390" alt = "Image not found"></img>
+	  
+	  
+	</section>
+     <footer>
+	  <br/>
+	  <hr/>
+	    <h3 style = 'text-align:right'>Copyrighted &copy;Leann Denniser, February 8, 2022 </h3>
+	  <hr/>
+     </footer>
+	 
+</body>
+</html>

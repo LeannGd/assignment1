@@ -1,0 +1,73 @@
+<!doctype html>
+
+<html>
+
+  <head>
+    <title>Personal Development</title>
+    <meta name = "Author" content = "Leann Denniser">	</meta>
+    <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+    <!-- the pixel width of the viewport that you want the website to be rendered at -->
+    <!-- setting a 1:1 ration between the device width and the viewport size -->
+    <meta charset= "UTF-8"></meta>
+    <meta name = "Keywords" content = "profile, personal development, story board"/>
+	
+	<link rel="icon" type="image/x-icon" href="../Assests/female.png"> 
+  </head>
+
+  <body style = "background:dodgerblue">
+     <!-- content goes here -->
+    <header>
+	 <hr/>
+	 <h1 style = "color:yellow; text-align:center">Personal Development </h1>
+	 <hr/>
+	 <br/>
+	</header>
+	
+	<section>
+	 
+	       
+	<h2 style = "color:black;font-size:160%";>Strengths</h2> 
+	 <dl>
+       <dt style= "color:white;font-size:130%";><b>Being able to be objective</b></dt>
+	   <br/>
+	   <dd style= "color:black;font-size:110%";>- I have learned how to detach myself from situations without taking situations personal. 
+	         <br>I was able to develop myself in this area because I did CAPE Law.My teacher was a lawyer 
+			 herself and activities and assignments</br> guided us to look at the bigger picture and note the facts.</dd>
+     </dl>
+	 <dl>
+       <dt style= "color:white;font-size:130%";><b>Team Player</b></dt>
+	   <br/>
+	   <dd style= "color:black;font-size:110%";>- I have been developing myself in this area in the recent years because I had to interact 
+	         and complete tasks in groups or seek help from <br>others without the fear of being judged. 
+			 Being a team player played a major role in the companies that I have</br> worked, as well as school.
+			 It is basically a requirement to be able to work in social spaces. </dd>
+     </dl>
+	 <dl>
+       <dt style= "color:white;font-size:130%";><b>Easy going</b></dt>
+	   <br/>
+	   <dd style= "color:black;font-size:110%";>- I have been learning to be more approachable and friendly. I have learned how to create
+	         a safe space for persons to talk comfortably. I also<br> have been learning how to not make 
+			 a bad day that I am experiencing affect another person.</br> </dd>
+     </dl>
+	 <br/><br/>
+	<h2 style = "color:black;font-size:160%";>Summary<img src = "../Assests/butterfly.jpg" height = "60" width = "50" 
+	    alt = "Image not found"></img></h2> 
+
+	<p style = "color:black;font-size:110%";>“Twelve Pillars” by Jim Rohn and Chris Widener touched on very important topics. The 
+	chapters that we were advised to read was of great importance <br>because it encouraged me to be serious about making goals and 
+	the road to achieve them. After reading those chapters I became inclined to tweak the goals I had written </br>down for the 
+	new year and make them more realistic and in order. The chapters highlighted that the journey and process is not as easy as it
+	is portrayed, and it takes <br>dedication and discipline.The authors also added wise words which I made note of because sometimes 
+	us young adults we discouraged easily or procrastinatewithout realising that a result of our actions will push back our goals.</br></p>
+	 
+	  
+	</section>
+     <footer>
+	  <br/>
+	  <hr/>
+	    <h3 style = 'text-align:right'>Copyrighted &copy;Leann Denniser, February 8, 2022 </h3>
+	  <hr/>
+     </footer>
+	 
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!doctype html>
+
+<html>
+
+  <head>
+    <title>Personal Page</title>
+    <meta name = "Author" content = "Leann Denniser">	</meta>
+    <meta name = "viewport" content = "width=device-width initial-scale = 1"/>
+    <!-- the pixel width of the viewport that you want the website to be rendered at -->
+    <!-- setting a 1:1 ration between the device width and the viewport size -->
+    <meta charset= "UTF-8"></meta>
+    <meta name = "Keywords" content = "profile, personal development, story board"/>
+	
+	<link rel="icon" type="image/x-icon" href="../Assests/female.png"> 
+  </head>
+
+  <body style = "background:dodgerblue">
+     <!-- content goes here -->
+    <header>
+	 <hr/>
+	 <h1 style = "color:yellow; text-align:center">Personal Page</h1>
+	 <hr/>
+	 <br/>
+	</header>
+	
+	
+	<section>
+	
+	   
+	   <p style= "text-align:center;color:white;font-size:150%"> <img src = "../Assests/reminder.gif" 
+	   height = "160" width = "150" alt = "Image not found"></img>' The true test of character is not 
+	   how we act on our best days<br>but how we act on our tough days.' <sub><strong>- Anonymous</strong></sub></br></p>
+	<br/><br/>
+	
+	<!--bookmark -->
+	<p style= "font-size:140%"><a href="#hobbies">Click link to jump to my hobbies</a></p>
+	
+	<h2>Things that I like<img src = "../Assests/like.png" height = "90" width = "90" alt = "Image not found"></img></h2>
+	  <ul style="list-style-type:square;">
+       <li>I like the colour blue</li>
+	   <br/>
+	   <li>I like when things are neat and put together</li>
+	   <br/>
+       <li>My favourite fruits are bananas and mangoes mainly because I like the scent</li>
+	   <br/>
+       <li>I like purses/bags and shoes because I am a "girly-girl"</li>
+	   <br/>
+	   <li>I like when my tea is unsweatened because it's better for the body</li>
+	   <br/>
+	   <li>I like when it rains because it makes me feel relaxed</li>
+      </ul> 
+	  <br/><br/>
+	  
+	<h2>Things that I dislike<img src = "../Assests/dislike.png" height = "80" width = "90" alt = "Image not found"></img></h2>
+	  <ul style="list-style-type:square;">
+       <li>Clowns</li>
+	   <br/>
+	   <li>Chocolate products except chocolate bars</li>
+	   <br/>
+       <li>Awkward silence</li>
+	   <br/>
+      </ul> 
+	  <br/><br/>
+
+	<h2 id="hobbies">My hobbies <img src = "../Assests/hobbies.gif" height = "90" width = "90" alt = "Image not found"></img></h2>
+	  <ul style="list-style-type:square;">
+       <li>I enjoy watching documentaries on platforms such as <a href="https://www.youtube.com/">Youtube</a></li>
+	   <br/>
+	   <li>I go on excursions visiting different places in Jamaica</li>
+	   <br/>
+       <li>Doing a therapeutic house clean</li>
+	   <br/>
+       <li>Trying various DIYs</li>
+	   <br/>
+	   <li>Baking</li>
+	   <br/>
+	   <li>Vibe to music in my alone time</li>
+      </ul> 
+	  <br/><br/>
+	  
+    <h2 id="hobbies">Personality Tool <img src = "../Assests/trait.jpg" height = "90" width = "90" alt = "Image not found"></img></h2>
+	  <p style= "color:black;font-size:130%">Below shows results of the personality test taken on <b>Keirsey</b>.
+	   This test was valid in my opinion.<br>The keywords such as <mark>factual,dependable and steady</mark> were excellent 
+	   words used to describe myself.</br>Characteristic traits such as <mark>loyal mate<mark/> was indeed factual. The test 
+	   also expressed that I know when <br>to have fun with friends and when to settle and get tasks completed.
+	   The test had a accuracy of 80% due </br>to the results being similar to what I knew about myself and has 
+	   been informed about. </p>
+	  <br/>
+	   <img src = "../Assests/test1.png" height = "400" width = "600" alt = "Image not found"></img>
+	   <br/><br/>
+	   <img src = "../Assests/test2.png" height = "400" width = "600" alt = "Image not found"></img>
+	   <br/><br/>
+	   <img src = "../Assests/test3.png" height = "400" width = "600" alt = "Image not found"></img>
+
+	  
+	</section>
+     <footer>
+	  <br/>
+	  <hr/>
+	    <h3 style = 'text-align:right'>Copyrighted &copy;Leann Denniser, February 8, 2022 </h3>
+	  <hr/>
+     </footer>
+	 
+</body>
+</html>
